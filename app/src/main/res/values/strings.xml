@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingCartBun</string>
+    <string name="search">Search</string>
+    <string name="search_all_items">Search All Items</string>
+    <string name="nume_produs">Nume Produs</string>
+    <string name="categorie_produs">Categorie Produs</string>
+</resources>
